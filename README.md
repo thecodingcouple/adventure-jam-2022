@@ -17,6 +17,9 @@ Source code for our Adventure Jam 2022 entry.
 
 ## Maintainers
 
+* [Ashley Grenon - @townsean](https://github.com/townsean)
+* [Michael Grenon - @nsipid](https://github.com/nsipid)
+
 ## License (MIT)
 
 MIT License
