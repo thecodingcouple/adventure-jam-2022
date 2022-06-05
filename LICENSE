@@ -1,32 +1,6 @@
-# adventure-jam-2022
-Source code for our Adventure Jam 2022 entry.
-
-[Adventure Jam](https://itch.io/jam/adventure-jam-2022) is a two-week game jam where participants create an adventure game. 
-
-## Synopsis
-
-*Who is my Mother?* is a point and click adventure game inspired by the children's book *[Are You My Mother?](https://www.amazon.com/Mother-Bright-Early-Board-Books/dp/0679890475)* by P.D. Eastman. 
-
-## Built With
-
-* [Visual Studio Code](https://code.visualstudio.com/)
-
-## Third Party Assets
-
-## Useful Resources
-
-## Project Setup
-
-## Maintainers
-
-* [Ashley Grenon - @townsean](https://github.com/townsean)
-* [Michael Grenon - @nsipid](https://github.com/nsipid)
-
-## License (MIT)
-
 MIT License
 
-Copyright (c) 2022 The Coding Couple
+Copyright (c) 2022 Ashley Grenon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
