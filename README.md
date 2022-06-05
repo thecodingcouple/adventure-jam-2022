@@ -1,6 +1,8 @@
 # adventure-jam-2022
 Source code for our Adventure Jam 2022 entry.
 
+[Adventure Jame](https://itch.io/jam/adventure-jam-2022) is a two-week game jam where participants create an adventure game. 
+
 ## Synopsis
 
 *Who is my Mother?* is a point and click adventure game inspired by the children's book *[Are You My Mother?](https://www.amazon.com/Mother-Bright-Early-Board-Books/dp/0679890475)* by P.D. Eastman. 
